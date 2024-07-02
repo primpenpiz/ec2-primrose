@@ -1,6 +1,6 @@
 vpc-name            = "Jenkins-vpc"
 igw-name            = "Jenkins-igw"
-subnet-name         = "Jenkins-subnet-primrose"
+subnet-name         = "Jenkins-subnet-final"
 subnet-name2        = "Jenkins-subnet2-primrose"
 security-group-name = "Jenkins-sg-primrose"
 rt-name2            = "Jenkins-route-table2-primrose2"
